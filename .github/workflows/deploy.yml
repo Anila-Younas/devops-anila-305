@@ -22,4 +22,3 @@ jobs:
 
     - name: Deploy notification
       run: echo "Deploying to Azure!"
-________________________________________
